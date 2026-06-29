@@ -1,0 +1,92 @@
+canonical_identifier: bkk:krp/KR3b0015/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR3b0015/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 守城錄
+  date: '2015-08-24 23:02:46.939949'
+  source:
+    repository: kanripo
+    path: KR3b0015
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR3b0015_000-WYG.yaml, hash: 'sha256:93dd93b5b82ff47b948dbd3b1375c9cc70f61115bda34e2329d991303179cc02'}
+  - {seq: 1, filename: KR3b0015_001-WYG.yaml, hash: 'sha256:2367235d3a9d432ce354e5195061db037cc82c341b934442abaecd309dc87c67'}
+  - {seq: 2, filename: KR3b0015_002-WYG.yaml, hash: 'sha256:e927266a135daf55af70650ccdb1c380a1d29993eaf5ac80026931f25cceaee1'}
+  - {seq: 3, filename: KR3b0015_003-WYG.yaml, hash: 'sha256:a421b40691d4b635dff559d4baab6ae429ce0d21ed989e3cb1c307fc0f8c7e58'}
+  - {seq: 4, filename: KR3b0015_004-WYG.yaml, hash: 'sha256:c25ff4d56abd2720dff4c68ccbac3caa6eaca82866fc5e9af03ddcfb6eb769fb'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3b0015_000-WYG.markers.yaml, hash: 'sha256:49a69eb3ead05bb496d0390238291229ad24504d0b38f823535b3e1906160ebb'}
+  - {seq: 1, role: markers, filename: assets/KR3b0015_001-WYG.markers.yaml, hash: 'sha256:e90d8af0816962254b44d7f95dea487b6d23daa6442b6c42076e010946703e68'}
+  - {seq: 2, role: markers, filename: assets/KR3b0015_002-WYG.markers.yaml, hash: 'sha256:25624ecd023d536de2994f70d709f635a82d2022011377d28d24e867888511c2'}
+  - {seq: 3, role: markers, filename: assets/KR3b0015_003-WYG.markers.yaml, hash: 'sha256:e0d8500457c16a3f5b198a2f6daa521bff4a9f8e6f9e17c6f6054fa08790a7a1'}
+  - {seq: 4, role: markers, filename: assets/KR3b0015_004-WYG.markers.yaml, hash: 'sha256:6abefb7f6c8cf37b1f6acba1a775c895dc46341c62ee8a9cef6f2e282973e6ec'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3b0015_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 698
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3b0015_WYG_000-4a
+    span:
+    - body
+    - 698
+    - 1128
+  label: 御題陣規守城録
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3b0015_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 5083
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3b0015_WYG_002-1a
+    span:
+    - body
+    - 0
+    - 3394
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3b0015_WYG_003-1a
+    span:
+    - body
+    - 0
+    - 4343
+  label: 卷三
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3b0015_WYG_004-1a
+    span:
+    - body
+    - 0
+    - 4405
+  label: 卷四
+  type: section
+  level: 1
+hash: sha256:1a9d84541e49f39207514fed3fbe030ab2704167e24ed18d3acc6ec9f044f5d6
